@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these labs, please cite them."
+title: "LLM Security Labs: Fine-Tuning, Attacking, and Deploying a Phishing Detector"
+authors:
+  - family-names: Lane
+    given-names: Andrew
+version: 0.1.0
+date-released: 2026-11-06
+license: MIT
+repository-code: "https://github.com/sjcALane/llm-security-labs"
